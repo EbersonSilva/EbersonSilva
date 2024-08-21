@@ -1,8 +1,8 @@
 # Eberson Silva 
 
-### Desenvolvedor de sistemas apaixonado por transformar ideias em soluções digitais. Especializado em criar softwares e aplicativos para tornar a vida das pessoas mais fácil e eficiente. Sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades em programação. 🚀💻 #desenvolvedordesistemas #programador #tecnologia #inovacao
+Desenvolvedor de Sistemas | Apaixonado por Soluções Inovadoras
 
-#### Veja meus projetos e entre em contato para discutirmos como podemos transformar suas ideias em realidade!
+Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e eficientes. Tenho experiência em diversas tecnologias, com ênfase em desenvolvimento web e mobile, utilizando ferramentas como React.js, Node.js, e bancos de dados relacionais e não relacionais. Busco sempre aprimorar minhas habilidades e contribuir para projetos que fazem a diferença. No meu GitHub, você encontrará exemplos de projetos, desde landing pages a sistemas completos.
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/ebersonssilva/)
