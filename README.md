@@ -10,6 +10,7 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me/)
 
 ## Habilidades
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
