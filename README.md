@@ -9,8 +9,10 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://www.instagram.com/binho_ebs?utm_source=qr&r=nametag/)
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me/)
 
+## Hard skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,c,cs,docker,go,maven,mongodb,java,php,mysql,nextjs,vscode&theme=dark)]([/](https://github.com/EbersonSilva))
+
 ## Habilidades
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
