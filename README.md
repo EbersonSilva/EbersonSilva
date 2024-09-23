@@ -10,7 +10,7 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me/)
 
 ## Hard skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,c,cs,docker,go,maven,mongodb,java,php,mysql,nextjs,vscode&theme=dark)]([/](https://github.com/EbersonSilva))
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,c,cs,docker,go,maven,mongodb,java,php,mysql,nextjs,vscode&theme=dark)]([/]))
 
 ## Habilidades
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
