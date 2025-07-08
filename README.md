@@ -10,7 +10,7 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 [![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me/)
 
 ## Hard skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,docker,go,mongodb,java,nextjs,vscode&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,docker,go,mongodb,java&theme=dark)]()
 
 ## Habilidades
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -20,7 +20,6 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C%2B%2B-FFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 ![React](https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=react)
 
