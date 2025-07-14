@@ -7,7 +7,7 @@ Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e efic
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/ebersonssilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://www.instagram.com/binho_ebs?utm_source=qr&r=nametag/)
-[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me/)
+[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/@me)
 
 ## Hard skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,bootstrap,docker,go,mongodb,java&theme=dark)]()
