@@ -8,7 +8,7 @@ Busco sempre aprimorar minhas habilidades e contribuir para projetos que fazem a
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/ebersonssilva/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://www.instagram.com/binho_ebs?utm_source=qr&r=nametag/)
-[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://www.discord.com/in/https://discord.com/channels/binho8228)
+[![Discord](https://img.shields.io/badge/Discord-FFF?style=for-the-badge&logo=discord)](https://discord.com/users/binho8228)
 
 
 
