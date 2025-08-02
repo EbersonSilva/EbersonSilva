@@ -1,8 +1,9 @@
 # Eberson Silva 
 
-Desenvolvedor de Sistemas | Suporte de TI
+Desenvolvedor de Sistemas | Supervisor de TI
 
-Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e eficientes. Tenho experiência em diversas tecnologias, com ênfase em desenvolvimento web e mobile, utilizando ferramentas como React.js, Node.js, e bancos de dados relacionais e não relacionais. Busco sempre aprimorar minhas habilidades e contribuir para projetos que fazem a diferença. No meu GitHub, você encontrará exemplos de projetos, desde landing pages a sistemas completos.
+Sou um desenvolvedor de sistemas com foco em criar soluções escaláveis e eficientes. Tenho experiência em diversas tecnologias, com ênfase em desenvolvimento web e mobile, utilizando ferramentas como React.js, Node.js, e bancos de dados relacionais e não relacionais. 
+Busco sempre aprimorar minhas habilidades e contribuir para projetos que fazem a diferença. No meu GitHub, você encontrará exemplos de projetos, desde landing pages a sistemas completos.
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/ebersonssilva/)
